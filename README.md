@@ -54,7 +54,7 @@ The model relys on PyTesseract library where the received image of the prescriti
 #### Clone the repo
 
    ```sh
-   git clone https://github.com/Zeph-T/SkillKits.git
+   git clone https://github.com/Leesha-1211/MedZone
    ```
 * __Frontend__
 1. change the directory to Frontend
